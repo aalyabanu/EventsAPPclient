@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7a584c05b708c88b8bfc3c1fd300204",
+    "revision": "0502f4f7d740fba0b86bac2e62910004",
     "url": "/EventsAPPclient/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/EventsAPPclient/static/css/2.d9ad5f5c.chunk.css"
   },
   {
-    "revision": "5afa8b8db5f6c9078d67",
+    "revision": "858b377f7f4fb8c0ff19",
     "url": "/EventsAPPclient/static/css/main.10aa0a36.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/EventsAPPclient/static/js/2.7b5edd75.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5afa8b8db5f6c9078d67",
-    "url": "/EventsAPPclient/static/js/main.34265ffa.chunk.js"
+    "revision": "858b377f7f4fb8c0ff19",
+    "url": "/EventsAPPclient/static/js/main.25c3d6ee.chunk.js"
   },
   {
     "revision": "39957540ddf9101dc229",

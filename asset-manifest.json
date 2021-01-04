@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/EventsAPPclient/static/css/main.10aa0a36.chunk.css",
-    "main.js": "/EventsAPPclient/static/js/main.34265ffa.chunk.js",
-    "main.js.map": "/EventsAPPclient/static/js/main.34265ffa.chunk.js.map",
+    "main.js": "/EventsAPPclient/static/js/main.25c3d6ee.chunk.js",
+    "main.js.map": "/EventsAPPclient/static/js/main.25c3d6ee.chunk.js.map",
     "runtime-main.js": "/EventsAPPclient/static/js/runtime-main.5050b8ab.js",
     "runtime-main.js.map": "/EventsAPPclient/static/js/runtime-main.5050b8ab.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/EventsAPPclient/static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.7b5edd75.chunk.js": "/EventsAPPclient/static/js/2.7b5edd75.chunk.js",
     "static/js/2.7b5edd75.chunk.js.map": "/EventsAPPclient/static/js/2.7b5edd75.chunk.js.map",
     "index.html": "/EventsAPPclient/index.html",
-    "precache-manifest.7be2b75a875f7d71ce475e6328e1f24f.js": "/EventsAPPclient/precache-manifest.7be2b75a875f7d71ce475e6328e1f24f.js",
+    "precache-manifest.3179a2e940542c2a0e11945f0ff75855.js": "/EventsAPPclient/precache-manifest.3179a2e940542c2a0e11945f0ff75855.js",
     "service-worker.js": "/EventsAPPclient/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/EventsAPPclient/static/css/2.d9ad5f5c.chunk.css.map",
     "static/css/main.10aa0a36.chunk.css.map": "/EventsAPPclient/static/css/main.10aa0a36.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.d9ad5f5c.chunk.css",
     "static/js/2.7b5edd75.chunk.js",
     "static/css/main.10aa0a36.chunk.css",
-    "static/js/main.34265ffa.chunk.js"
+    "static/js/main.25c3d6ee.chunk.js"
   ]
 }
