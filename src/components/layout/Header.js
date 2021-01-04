@@ -5,7 +5,7 @@ import {Link} from "react-router-dom";
 export default function Header() {
     return (
         <header id="header">
-            <Link  to="/"><h1 className="title"> Events App</h1></Link>
+            <Link  to="/"><h1 className="title"> Events Board</h1></Link>
             <AuthOptions/>
         </header>
     )
